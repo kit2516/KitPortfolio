@@ -226,7 +226,7 @@ export default function Home() {
               <TiltedCard
                 imageSrc="/photos/kit.svg"
                 altText="Yuyuhiei"
-                captionText="Lauvigne Lumeda" 
+                captionText="Kit Benedic" 
                 containerHeight="600px"
                 containerWidth="500px"
                 imageHeight="600px"
@@ -246,9 +246,9 @@ export default function Home() {
 
             <div className="md:hidden mt-10 mb-20">
               <TiltedCard
-                imageSrc="/photos/tiltedcard.svg"
+                imageSrc="/photos/kit.svg"
                 altText="Yuyuhiei"
-                captionText="Lauvigne Lumeda"
+                captionText="Kit Benedic"
                 containerHeight="400px"
                 containerWidth="300px"
                 imageHeight="400px"
