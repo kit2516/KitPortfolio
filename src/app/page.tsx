@@ -308,7 +308,7 @@ export default function Home() {
 
       {/* Footer Section - Consider moving this to layout.tsx as well for consistency */}
       <footer className="flex w-full items-center justify-center p-4 border-t border-white/[.15] text-white/50 text-sm font-light mt-20"> {/* Added margin top */}
-        <p>&copy; {new Date().getFullYear()} Lauvigne Lumeda. All rights reserved.</p> {/* Updated name */}
+        <p>&copy; {new Date().getFullYear()} Kit Benedic A. Aguing. All rights reserved.</p> {/* Updated name */}
       </footer>
     </> // Closed React Fragment wrapper
     // </div> // Removed this closing tag
