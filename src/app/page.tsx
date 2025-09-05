@@ -238,7 +238,7 @@ export default function Home() {
                 displayOverlayContent={true}
                 overlayContent={
                   <p className="bg-transparent px-4 py-2 border-1 border-dashed rounded-lg opacity-50 font-bold m-5 absolute top-5 left-85">
-                    Kit
+                    Benedic
                   </p>
                 }
               />
@@ -260,7 +260,7 @@ export default function Home() {
                 displayOverlayContent={true}
                 overlayContent={
                   <p className="bg-transparent px-4 py-2 border-1 border-dashed rounded-lg opacity-50 font-bold m-5 absolute">
-                    Lauvigne
+                  Benedic
                   </p>
                 }
               />
